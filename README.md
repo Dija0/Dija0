@@ -11,4 +11,4 @@ on web3-related stuff
 - 💬 Ask me about NFTs👀
 - 📫 How to reach me: email- dijaabiola0303@gmail.com and on Twitter- dija_abiola 
 - ⚡ Fun fact: I like blue!
-- 
+
