@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dija 👀
+My name is Dija 
 
 
 - 🔭 I’m currently working on my niche
