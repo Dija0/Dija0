@@ -1,15 +1,9 @@
-### Hi there 👋
-
-My name is Dija 
-
-
-- 🔭 I’m currently working on my niche
-- 🌱 I’m currently learning solidity 
-- 👯 I’m looking to collaborate  
-on web3-related stuff
-- 🤔 I’m looking to expand my Web3 knowledge
-- 💬 Ask me about smart contracts👀
-- 📫 How to reach me: email- dijaabiola0303@gmail.com and on Twitter- dija_abiola 
-- ⚡ Fun fact: I like blue
+###Hi👋,
+my name is Hadijat
+i am currently a CS student enjoying the experience
+i am learning and currently working on my niche 
+i am open to collaborate on fun project that spike my intrest 
+my email- dijaabiola0303@gmail.com 
+have a good one👍
 
 
