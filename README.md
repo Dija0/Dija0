@@ -1,9 +1,10 @@
-###Hi👋,
-my name is Hadijat
-i am currently a CS student enjoying the experience
-i am learning and currently working on my niche 
-i am open to collaborate on fun project that spike my intrest 
-my email- dijaabiola0303@gmail.com 
-have a good one👍
+# Hi, I'm Hadijat! 👋
+
+I'm currently a CS student, thoroughly enjoying the learning journey.
+
+- 📚 Learning and growing every day, with a focus on explorating my niche.
+- 💻 Open to collaborating on interesting projects that catch my eye.
+- 📧 You can reach out to me at dijaabiola0303@gmail.com.
+- 👍 Have a great day!
 
 
